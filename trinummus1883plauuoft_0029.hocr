@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./trinummus1883plauuoft_0029.png"; bbox 0 0 2068 3310; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 558 1135 1293 1216">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 558 1135 1293 1216">
+     <span class='ocr_line' id='line_1_1' title="bbox 558 1135 1293 1216; baseline 0.024 -17"><span class='ocrx_word' id='word_1_1' title='bbox 558 1135 621 1201; x_wconf 55' lang='grc' dir='ltr'>Ἣ.</span> <span class='ocrx_word' id='word_1_2' title='bbox 686 1138 924 1208; x_wconf 51' lang='lat' dir='ltr'>JxL-miffl</span> <span class='ocrx_word' id='word_1_3' title='bbox 1012 1145 1293 1216; x_wconf 49' lang='lat' dir='ltr'>va&#39;ffl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 496 1374 1488 1475">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 367 1371 1488 1475">
+     <span class='ocr_line' id='line_1_2' title="bbox 496 1374 1488 1475; baseline 0.024 -23.893"><span class='ocrx_word' id='word_1_4' title='bbox 496 1374 566 1452; x_wconf 73' lang='lat' dir='ltr'><strong>R</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 620 1377 653 1455; x_wconf 71' lang='lat'>1</span> <span class='ocrx_word' id='word_1_6' title='bbox 714 1379 793 1457; x_wconf 81' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_7' title='bbox 847 1382 925 1459; x_wconf 58' lang='lat' dir='ltr'>x*</span> <span class='ocrx_word' id='word_1_8' title='bbox 981 1386 1070 1465; x_wconf 69' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_9' title='bbox 1132 1389 1223 1468; x_wconf 74' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_10' title='bbox 1276 1392 1354 1469; x_wconf 53' lang='lat' dir='ltr'>x*</span> <span class='ocrx_word' id='word_1_11' title='bbox 1406 1394 1488 1475; x_wconf 75' lang='lat' dir='ltr'>S.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 183 1834 1661 2042">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 183 1834 1661 2042">
+     <span class='ocr_line' id='line_1_3' title="bbox 183 1834 1661 1913; baseline 0.024 -34"><span class='ocrx_word' id='word_1_12' title='bbox 183 1834 505 1887; x_wconf 45' lang='lat' dir='ltr'>&lt;-22{&lt;.‡2}3C.÷x.</span> <span class='ocrx_word' id='word_1_13' title='bbox 561 1842 1097 1901; x_wconf 59' lang='lat' dir='ltr'>THENSAVRVS</span> <span class='ocrx_word' id='word_1_14' title='bbox 1153 1854 1661 1913; x_wconf 44' lang='lat' dir='ltr'>PHILEMONR</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 356 1955 1483 2042; baseline 0.023 -41"><span class='ocrx_word' id='word_1_15' title='bbox 356 1955 571 2005; x_wconf 56' lang='lat' dir='ltr'><strong>»ACTA</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 627 1958 836 2012; x_wconf 56' lang='lat' dir='ltr'>LVMS</span> <span class='ocrx_word' id='word_1_17' title='bbox 894 1965 1483 2042; x_wconf 59' lang='lat' dir='ltr'>MEGALENSIEVSJ.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

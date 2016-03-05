@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./trinummus1883plauuoft_0006.png"; bbox 0 0 2116 3326; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 883 872 1163 933">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 883 872 1163 933">
+     <span class='ocr_line' id='line_1_1' title="bbox 883 872 1163 933; baseline -0.011 0"><span class='ocrx_word' id='word_1_1' title='bbox 883 872 1163 933; x_wconf 56' lang='lat' dir='ltr'><strong>{louhen</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 648 1049 1407 1101">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 648 1049 1407 1101">
+     <span class='ocr_line' id='line_1_2' title="bbox 648 1049 1407 1101; baseline -0.004 -1"><span class='ocrx_word' id='word_1_2' title='bbox 648 1051 956 1101; x_wconf 79' lang='lat' dir='ltr'>HENRY</span> <span class='ocrx_word' id='word_1_3' title='bbox 1033 1049 1407 1100; x_wconf 81' lang='lat' dir='ltr'>FROWDE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 775 1273 1288 1832">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 775 1273 1288 1832">
+     <span class='ocr_line' id='line_1_3' title="bbox 775 1273 1288 1832; baseline 0 1494"><span class='ocrx_word' id='word_1_4' title='bbox 775 1273 1288 1832; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 266 1958 1798 2010">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 266 1958 1798 2010">
+     <span class='ocr_line' id='line_1_4' title="bbox 266 1958 1798 2010; baseline -0.008 -1"><span class='ocrx_word' id='word_1_5' title='bbox 266 1969 537 2010; x_wconf 72' lang='lat' dir='ltr'>OXFORD</span> <span class='ocrx_word' id='word_1_6' title='bbox 603 1968 1033 2008; x_wconf 77' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1093 1965 1302 2004; x_wconf 77' lang='lat' dir='ltr'>PRESS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1363 1958 1798 2001; x_wconf 78' lang='lat' dir='ltr'><strong>WAREHOUSE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 730 2120 1338 2162">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 730 2120 1338 2162">
+     <span class='ocr_line' id='line_1_5' title="bbox 730 2120 1338 2162; baseline -0.008 -1"><span class='ocrx_word' id='word_1_9' title='bbox 730 2128 748 2162; x_wconf 81' lang='lat'><strong>7</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 795 2123 1177 2161; x_wconf 74' lang='lat' dir='ltr'>PATERNOSTER</span> <span class='ocrx_word' id='word_1_11' title='bbox 1204 2120 1338 2158; x_wconf 79' lang='lat' dir='ltr'><strong>ROW</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
